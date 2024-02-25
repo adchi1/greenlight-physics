@@ -2,3 +2,11 @@ This is Katie Le, Alondra Cubaque Alicea, Ezinma Aguwa, and Ada Anya's FemmeHack
 It's a web app called GreenLight Physics that makes introductory physics topic easier to practice.
 In making this program, we used React and coded in HTML, CSS, and JavaScript.
 We also left this project open to expansion because of all the creative possibilities!
+
+Educational source: https://www.physicsclassroom.com/Physics-Tutorial/1-D-Kinematics
+
+Alicia Springer says that warm colors like red keep the learner’s attention and invoke creativity. (Springer, 2022) So, we’ll be using this palette:
+https://coolors.co/f4a259-f4e285-eef5fc-83afa0-13212a
+
+This code is a modified version of  GreatStack's quiz app tutorial. The YouTube link is:
+https://www.youtube.com/watch?v=PBcqGxrr9g8
